@@ -12,7 +12,7 @@ assignees: ''
 **So That** [benefit]
 
 ### Details and Assumptions
-* [Document what you knowk]
+* [Document what you know]
 
 
 ### Acceptance Criteria
