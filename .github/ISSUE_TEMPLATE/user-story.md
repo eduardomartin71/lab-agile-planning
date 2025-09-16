@@ -1,0 +1,18 @@
+---
+name: User Story
+about: This template is for creatin user stories
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**As a ** [Role]
+**I need ** [Function]
+**So That** [benefit]
+
+### Details and Assumptions
+* [Document what you knowk]
+
+
+### Acceptance Criteria
